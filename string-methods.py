@@ -29,7 +29,7 @@ name = "terry"
 # print(name.replace("y", "i"))
 
 #10. displaying a sring multiple time
-print(name*3)
+# print(name*3)
 
 # print(name.lower())
 
