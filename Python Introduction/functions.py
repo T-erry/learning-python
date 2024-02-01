@@ -19,3 +19,16 @@
 
 # evenOdd(2)
 # evenOdd(3)
+
+# return statements
+# def multiply(num1, num2):
+#     return  num1 * num2
+   
+# x = multiply(8, 6)
+
+# print(x)
+
+# Nested functions- functiom calls inside another function calls
+# inner fuction calls are resolved first
+#returned value is used as argument for the next outer function
+
